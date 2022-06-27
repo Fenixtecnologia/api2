@@ -1,0 +1,722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jso",
+				"json_encode()"
+			],
+			[
+				"if",
+				"ifelse"
+			],
+			[
+				"no",
+				"NombreChofer"
+			],
+			[
+				"T",
+				"TipoDTE"
+			],
+			[
+				"i",
+				"if?"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"gene",
+				"generarSobreEnvio.php"
+			],
+			[
+				"doc",
+				"DocumentType"
+			],
+			[
+				"arra",
+				"array2"
+			],
+			[
+				"a",
+				"array1"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"fon",
+				"font-stretch"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"sel",
+				"selectedOption"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"Camise",
+				"CamisetaBase"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"04",
+				"04-funciones.js"
+			],
+			[
+				"al",
+				"text-align-last"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"que",
+				"querySelector"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"01",
+				"01-Formulario_login.js"
+			],
+			[
+				"02",
+				"02-holamundo.js"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"J",
+				"Js/"
+			],
+			[
+				"sele",
+				"selectable"
+			],
+			[
+				"selec",
+				"selectable"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"dra",
+				"draggable"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"fade",
+				"fadeto"
+			],
+			[
+				"clik",
+				"click"
+			],
+			[
+				"rea",
+				"ready"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"clic",
+				"click"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"03",
+				"03-textos.js"
+			],
+			[
+				"mouse",
+				"mousemove"
+			],
+			[
+				"thi",
+				"this"
+			],
+			[
+				"cs",
+				"css"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"cam",
+				"cambianegro"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"bus",
+				"busqueda"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"j",
+				"jquery-3.6.0.min.js"
+			],
+			[
+				"fe",
+				"fecha"
+			],
+			[
+				"mos",
+				"mostrarJanet"
+			],
+			[
+				"Usu",
+				"Usuario2"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pel",
+				"pelicula"
+			],
+			[
+				"tit",
+				"titulo"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"f",
+				"fontSize"
+			],
+			[
+				"p_",
+				"p_nombre"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"for",
+				"formulario"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inne",
+				"innerWidth"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"appen",
+				"append"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"prom",
+				"prompt"
+			],
+			[
+				"fin",
+				"findIndex"
+			],
+			[
+				"mostr",
+				"mostrardato"
+			],
+			[
+				"pr",
+				"prueba"
+			],
+			[
+				"pe",
+				"peliculas"
+			],
+			[
+				"ca",
+				"categoria"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"texto",
+				"textoconcat"
+			],
+			[
+				"res",
+				"restodefrutas"
+			],
+			[
+				"Por",
+				"PorPantalla"
+			],
+			[
+				"di",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/FE/simple/impresionCarta.php",
+		"/C/xampp/htdocs/FE/simple/impresionPdf.php",
+		"/C/xampp/htdocs/FE/simple/enviarAlSii.php",
+		"/C/xampp/htdocs/FE/simple/generarSobreEnvio.php",
+		"/C/xampp/htdocs/FE/simple/Consultar.php",
+		"/C/xampp/htdocs/FE/simple/simpleApi-EnviarBoleta.php",
+		"/C/xampp/htdocs/FE/simple/DTE_T33F8.xml",
+		"/C/xampp/htdocs/FE/simple/test.php",
+		"/C/xampp/htdocs/FE/simple/api/Procfile",
+		"/C/xampp/htdocs/FE/simple/18245727-2T61.xml",
+		"/C/xampp/htdocs/FE/simple/simpleApi-crearBoleta.php",
+		"/C/xampp/htdocs/FE/simple/envioboletas.xml",
+		"/C/Users/pc/Desktop/Market versiones/simpleDteFenix-main/impresionPdf.php",
+		"/C/Users/pc/Desktop/Market versiones/simpleDteFenix-main/generarSobreEnvio.php",
+		"/C/Users/pc/Desktop/Market versiones/simpleDteFenix-main/enviarAlSii.php",
+		"/C/Users/pc/Desktop/Pruebas HTML/index.html",
+		"/C/Users/pc/Desktop/Pruebas HTML/js/hhtp.js",
+		"/C/Users/pc/Documents/Estructura.html",
+		"/C/Users/pc/Documents/asd.js",
+		"/C/Users/pc/Documents/Formato fir.html",
+		"/C/Users/pc/Desktop/Aprendiendo angular/js/10-ventana de datos.js",
+		"/C/Users/pc/Desktop/Aprendiendo angular/index.html",
+		"/C/Users/pc/Desktop/Aprendiendo angular/js/productos.js",
+		"/C/Users/pc/Desktop/Pruebas HTML/css/365bac6ca7cf9bd96a8cc2b79e76ce1243e0ae121c893d91_files/css",
+		"/C/Users/pc/Desktop/Aprendiendo angular/Firma.html",
+		"/C/Users/pc/Desktop/Aprendiendo angular/js/11-tabla.js",
+		"/C/Users/pc/Desktop/Aprendiendo angular/js/10-ventana de datos",
+		"/C/Users/pc/Desktop/Pruebas HTML/js/pagina2.html",
+		"/C/Users/pc/Desktop/Pruebas HTML/css/estilo.css",
+		"/C/Users/pc/Desktop/Pruebas HTML/css/normalize.css",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/Fenix/js/productosjson.js",
+		"/C/Users/pc/Desktop/Fenix Tecnologia/web cotizaciones/cotizaciones.html",
+		"/C/Users/pc/Desktop/Fenix Tecnologia/web cotizaciones/cotizaciones.txt",
+		"/C/Users/pc/Desktop/mysetup.exe",
+		"/C/Users/pc/Desktop/Sistema de ventas/sistema-pos-main/sistema-pos.sql",
+		"/C/Windows/System32/Angular/src/app/videojuego/videojuego.component.html",
+		"/C/Windows/System32/Angular/src/app/app.module.ts",
+		"/C/Windows/System32/Angular/src/app/videojuego/videojuego.component.ts",
+		"/C/Windows/System32/Angular/src/app/app.component.html",
+		"/C/Windows/System32/Angular/src/app/app.component.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/camiseta.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/index.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/camiseta.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/main.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/04-funciones.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/04-funciones.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/03-tiposdedatos.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/03-tiposdedatos.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/02-holamundo.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas_javascript/poo_ts/Js/02-holamundo.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Fenix/Eleccion.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Fenix/js/01-Formulario_login.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/poo_ts/Js/02-holamundo.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/poo_ts/Js/02-holamundo.ts",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/poo_ts/index.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/poo_ts/Js/01-clasejson.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/06-intefaz.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/interface.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/ajax.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/05-ajax.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/04-efectos.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/efectos.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/03-textos.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/textos.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/02-eventos.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/eventos.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/textos.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/JS/01-selectores.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Aprendiendo Jquery/index.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/38-fechas.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/externo.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/37-trycatch.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/36-fetch.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/33-JSON.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/34-localstorage.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/35-ejerciciolocalstorage.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/pagina.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/31-Temporizadores.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/32-EjercicioDom.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/30-eventos.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Index.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/formulario.html",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/28-Dom.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/29-Bom.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/25-Arrays.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/26-Arraymultinivel.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/27-EjercicioArray.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/19-Funciones.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/20-parametros.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/21-Funcionesanon.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/22-ambito.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/24-Plantillastxt.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/23-funcionestexto.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/23-Funciones texto",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/12-Ejercicio2.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/13-Ejercicio3.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/14-Ejercicio4.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/15-Ejercicio5.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/16-Ejercicio6.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/17-Ejercicio7.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/18-Ejercicio8.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/11-Ejercicio1.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/10-Ventanas.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/08-Buclefor.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/07-Switch.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/06-Condicionales.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/05-Operadores.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/01-Hola_mundo.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/09-buclewhile.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/02-Variables.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/03-Letyvar.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/04-Constantes.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/Variables.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Js/Hola_mundo.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Hola_mundo.js",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/Hola_mundo",
+		"/C/Users/pc/Desktop/WEB/Pruebas javascript/Hola_mundo/java alert.html",
+		"/C/Users/pc/Desktop/WEB/Contacto.html",
+		"/C/Users/pc/Desktop/WEB/Index.html",
+		"/C/Users/pc/Desktop/WEB/Contenidos.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
